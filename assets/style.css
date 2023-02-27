@@ -1,10 +1,15 @@
 #prima-immagine{
-    background-color: blue;
-    background-: 100% ;
+width: 150px;
+height: 100px;
+
+
 }
 .scrittura-piu-grande{
     font-size: 30px;
 }
 #celeste{
     color: aqua;
+}
+.evidenziata{
+    background-color:yellow
 }
