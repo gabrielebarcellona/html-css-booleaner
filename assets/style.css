@@ -1,9 +1,31 @@
-#prima-immagine{
-width: 150px;
-height: 100px;
 
 
+header{
+    background-image: url(../img/pattern.png);
+    background-color: dodgerblue;
+    width: 100%;
+    height: 100px
+    
 }
+
+#prima-cella{
+    width: 400px;
+}
+#logo1{
+    height: 1z80px;
+    width: 180px;
+}
+
+.cella{
+    background-color: deepskyblue;
+    color: aliceblue;
+}
+.cella2{
+    background-color: aquamarine;
+}
+
+
+
 .scrittura-piu-grande{
     font-size: 30px;
 }
@@ -12,4 +34,10 @@ height: 100px;
 }
 .evidenziata{
     background-color:yellow
+}
+aside{
+    color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px
+    ;
 }
